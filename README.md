@@ -12,7 +12,7 @@ Lean365 | Dallas ENGAGE follow-up campaign, **Draft 3.0**. Theme: *Develop Your 
 | Button | Destination |
 | --- | --- |
 | Enroll — Virtual Cohort | `https://example.com/lean365/enroll-virtual-cohort` |
-| Enroll — Dallas Accelerator | `https://example.com/lean365/enroll-dallas-accelerator` |
+| Enroll — Dallas Accelerator | `https://engage.cfalean365.com/dfw/` |
 | Join a Lean365 Introduction Call | `https://calendly.com/evans-kariuki-circleksolutions/lean-leader-information-call` |
 | Forrest video: closing invitation (20–30 sec) | `https://example.com/lean365/video/forrest-closing` |
 
@@ -31,4 +31,4 @@ Lean365 | Dallas ENGAGE follow-up campaign, **Draft 3.0**. Theme: *Develop Your 
 - Use the "selected" invitation language only for recipients whose eligibility has been confirmed.
 - Forrest's scripts are proposed language, not verified quotations. Confirm with Forrest before recording.
 - Replace every `example.com` link and every placeholder image before the final send.
-- Dallas Accelerator timing: these emails say **January 2027** (Draft 3.0), but the live registration page at `engage.cfalean365.com/dfw/` says **late November–early December 2026** ($4,000, LeanKit included). Reconcile before linking the Dallas enroll button to it.
+- The Dallas enroll button links to `engage.cfalean365.com/dfw/`. That page currently says **late November–early December 2026**; update it to January 2027 so it matches these emails.
