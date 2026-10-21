@@ -13,7 +13,7 @@ Lean365 | Dallas ENGAGE follow-up campaign, **Draft 3.0**. Theme: *Develop Your 
 | --- | --- |
 | Enroll — Virtual Cohort | `https://example.com/lean365/enroll-virtual-cohort` |
 | Enroll — Dallas Accelerator | `https://example.com/lean365/enroll-dallas-accelerator` |
-| Join a Lean365 Introduction Call | `https://calendly.com/evans-kariuki-circleksolutions/lean365-introduction-call` |
+| Join a Lean365 Introduction Call | `https://calendly.com/evans-kariuki-circleksolutions/lean-leader-information-call` |
 | Forrest video: closing invitation (20–30 sec) | `https://example.com/lean365/video/forrest-closing` |
 
 `example.com` links are placeholders for destinations still pending.
