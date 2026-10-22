@@ -3,7 +3,7 @@
 Lean365 | Dallas ENGAGE follow-up campaign, **Draft 3.0**. Theme: *Develop Your Leaders. Multiply Your Problem Solvers. Start 2027 Strong.*
 
 - **Subject line:** We met at ENGAGE. Now comes the exciting part.
-- **Preview text:** Choose your path: the Virtual Cohort (November 2026) or the Dallas Accelerator (January 2027).
+- **Preview text:** Choose your path: the Online Cohort (November 2026) or the Dallas Accelerator (January 2027).
 - **File:** `index.html` (paste into your email platform's custom HTML editor)
 - **Sign-off:** The Lean365 Leadership Team
 
@@ -11,7 +11,7 @@ Lean365 | Dallas ENGAGE follow-up campaign, **Draft 3.0**. Theme: *Develop Your 
 
 | Button | Destination |
 | --- | --- |
-| Enroll — Virtual Cohort | `https://example.com/lean365/enroll-virtual-cohort` |
+| Enroll — Online Cohort | `https://example.com/lean365/enroll-online-cohort` |
 | Enroll — Dallas Accelerator | `https://engage.cfalean365.com/dfw/` |
 | Join a Lean365 Introduction Call | `https://calendly.com/evans-kariuki-circleksolutions/lean-leader-information-call` |
 | Forrest video: closing invitation (20–30 sec) | `https://example.com/lean365/video/forrest-closing` |
@@ -31,4 +31,4 @@ Lean365 | Dallas ENGAGE follow-up campaign, **Draft 3.0**. Theme: *Develop Your 
 - Use the "selected" invitation language only for recipients whose eligibility has been confirmed.
 - Forrest's scripts are proposed language, not verified quotations. Confirm with Forrest before recording.
 - Replace every `example.com` link and every placeholder image before the final send.
-- The Dallas enroll button links to `engage.cfalean365.com/dfw/`. That page currently says **late November–early December 2026**; update it to January 2027 so it matches these emails.
+- The Dallas enroll button links to `engage.cfalean365.com/dfw/`. That page's headline now says January 2027, but one line further down still says **late November–early December 2026**; update that line so it matches these emails.
